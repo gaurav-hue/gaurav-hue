@@ -13,14 +13,6 @@ I’m currently pursuing a BS in Data Science from IIT Madras, focused on master
 - BI Tools: Power BI, Tableau dashboard creation  
 - Business Analytics: Case studies and problem-solving
 
----
-
-## 🚀 Current Progress
-
-- Day 1: Professional setup complete (LinkedIn, GitHub, Google Drive)  
-- Excel mastery foundation started (formulas, pivot tables)  
-- SQL fundamentals practiced (basic queries, filtering, aggregates)  
-- Google Data Analytics Certificate Module 1 underway  
 
 ---
 
