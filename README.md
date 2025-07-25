@@ -1,35 +1,49 @@
-# Data Analyst Portfolio - Gaurav Verma
+# 📊 Gaurav Verma — Aspiring Data Analyst
 
-Welcome to my data analyst learning journey!  
-I’m currently pursuing a BS in Data Science from IIT Madras, focused on mastering the core skills of data analysis through hands-on projects and real-world datasets.
-
----
-
-## 🎯 Learning Goals
-
-- Excel: Advanced formulas, pivot tables, data visualization  
-- SQL: Writing efficient queries, data manipulation, database exploration  
-- Python: Data analysis libraries like Pandas, automation, scripting  
-- BI Tools: Power BI, Tableau dashboard creation  
-- Business Analytics: Case studies and problem-solving
-
+🎓 I'm currently pursuing a hybrid BSc degree from **IIT Madras**, focused on **Data Science**.  
+🔍 I'm passionate about using data to solve real-world business problems, and I'm building my skills through hands-on learning and projects.
 
 ---
 
-## 📂 Project Repository Structure
+## 🚀 What I’m Working On
 
-- `/projects` — Data analysis projects with datasets and notebooks  
-- `/certificates` — Course completion certificates and progress  
-- `/learning-notes` — Summaries, cheat sheets, and study notes  
-- `/resume` — Latest resume and professional documents  
-
----
-
-## 📫 Connect with Me
-
-- LinkedIn: [https://www.linkedin.com/in/gauraverma0](https://www.linkedin.com/in/gauraverma0)  
-- Email: gauravverma42189@gmail.com  
+- 📈 **Excel / Google Sheets** — Advanced formulas, pivot tables, dashboards  
+- 🗃️ **SQL** — Data extraction, filtering, aggregations, joins  
+- 🐍 **Python** — Pandas, NumPy, data wrangling, basic automation  
+- 📊 **Power BI / Tableau** — Creating interactive business dashboards  
+- 📚 **Google Data Analytics Certificate** — In progress on Coursera
 
 ---
 
-Thank you for visiting my portfolio! I’m excited to grow and share my data analysis skills with the community.
+## 📂 Portfolio Repository Structure
+
+- `/projects` — Data analysis case studies and dashboards  
+- `/certificates` — Proof of completed courses and credentials  
+- `/learning-notes` — Cheat sheets, summaries, SQL/Excel notes  
+- `/resume` — Updated resume and career documents
+
+---
+
+## 📘 Track My Learning Progress
+
+👉 [View Full Learning Progress Log](./PROGRESS.md) — updated with key milestones and daily learnings.
+
+---
+
+## 🎯 Goals
+
+- Master the data stack: Excel, SQL, Python, BI tools  
+- Build impactful, real-world data projects  
+- Become job-ready for data analyst roles in 2025  
+- Learn to tell powerful stories with data
+
+---
+
+## 🔗 Connect with Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/gauraverma0)  
+- 📧 gauravverma42189@gmail.com  
+
+---
+
+Thanks for visiting my portfolio! Stay tuned for upcoming projects and dashboards.
